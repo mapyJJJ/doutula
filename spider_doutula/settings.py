@@ -19,7 +19,7 @@ ALL_PAGE_NUM = 2784
 MYSQL_HOST = '127.0.0.1'
 MYSQL_DBNAME = 'doutula'
 MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'wszsd'
+MYSQL_PASSWORD = 'xxxx'
 
 API_HOST = 'http://127.0.0.1:5010/get'
 
